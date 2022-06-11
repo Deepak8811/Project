@@ -1,0 +1,33 @@
+*
+{
+    background-color: pink;
+
+}
+body{
+    margin:0;
+    padding:0;
+    background: url('gym.jpg');
+
+}
+.left{
+    border: 2px solid red;
+    margin-top: 12px;
+
+
+}
+.mid{
+    border: 2px solid aqua;
+    display: flex;
+    justify-content: center;
+  
+   
+
+}
+.right{
+    border: 2px solid purple;
+    position: absolute;
+    right: 35px;
+    top: 12px;
+    
+
+}
